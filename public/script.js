@@ -1,4 +1,4 @@
-const API_BASE = "http://localhost:5000/api"; // adjust if needed
+const API_BASE = "https://time-calcculator.onrender.com/api"; // adjust if needed
 
 // ===== DOM references =====
 const qs = (s) => document.querySelector(s);
